@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Al-Behwar
 
-### Aspiring Data Scientist | Graphic Designer | Science Student @ Tanta University 🧬
+### Aspiring Data Scientist | Graphic Designer | Science Student @ Tanta University
 
 I am a Science student with a strong analytical mindset and a creative eye. My journey is driven by a passion for understanding the world through data, building data models, and visualizing insights effectively. 
 
